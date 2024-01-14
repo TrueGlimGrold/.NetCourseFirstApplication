@@ -1,0 +1,7 @@
+C:\Users\Luke\Desktop\School Projects\.Net Software Development\Applications\MyFirstConsoleApplication\MyFirstConsoleApplication\bin\Debug\MyFirstConsoleApplication.exe.config
+C:\Users\Luke\Desktop\School Projects\.Net Software Development\Applications\MyFirstConsoleApplication\MyFirstConsoleApplication\bin\Debug\MyFirstConsoleApplication.exe
+C:\Users\Luke\Desktop\School Projects\.Net Software Development\Applications\MyFirstConsoleApplication\MyFirstConsoleApplication\bin\Debug\MyFirstConsoleApplication.pdb
+C:\Users\Luke\Desktop\School Projects\.Net Software Development\Applications\MyFirstConsoleApplication\MyFirstConsoleApplication\obj\Debug\MyFirstConsoleApplication.csproj.AssemblyReference.cache
+C:\Users\Luke\Desktop\School Projects\.Net Software Development\Applications\MyFirstConsoleApplication\MyFirstConsoleApplication\obj\Debug\MyFirstConsoleApplication.csproj.CoreCompileInputs.cache
+C:\Users\Luke\Desktop\School Projects\.Net Software Development\Applications\MyFirstConsoleApplication\MyFirstConsoleApplication\obj\Debug\MyFirstConsoleApplication.exe
+C:\Users\Luke\Desktop\School Projects\.Net Software Development\Applications\MyFirstConsoleApplication\MyFirstConsoleApplication\obj\Debug\MyFirstConsoleApplication.pdb
